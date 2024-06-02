@@ -9,6 +9,12 @@ body{
 header{
     background-color: green;
 }
+
 footer{
     background-color: blue;
+}
+
+
+section{
+    background-color: yellow;
 }
